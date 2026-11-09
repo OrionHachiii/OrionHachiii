@@ -16,116 +16,87 @@
 
 <a id="about"></a>
 
-## 01 / A little about me
+## 01 / Hello, I'm Orion
 
-Hi, I'm **Zesen Long** — you can call me **Orion**. ✳
-
-I'm studying **Computer Engineering at UC Irvine**, with an **ICS minor**. My interests sit where hardware meets software: embedded systems, robotics, edge AI, and hardware–software co-design.
-
-I like turning ideas into things you can hold, play with, and learn from — from a brick-built game console to a tiny vision-powered device.
-
-> 小电路，大好奇。欢迎来到我的涂鸦工作台。
+**Zesen Long · Computer Engineering @ UC Irvine · ICS minor**  
+Building playful hardware and useful software. Into embedded systems, robotics, and edge AI.
 
 <a id="workbench"></a>
 
-## 02 / On the workbench
+## 02 / Selected builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://github.com/OrionHachiii/lego-game-console"><img src="https://raw.githubusercontent.com/OrionHachiii/lego-game-console/main/site/assets/esp32-console-overview.jpg" width="100%" height="170" alt="ESP32 brick-built game console" /></a>
 
-### ↳ Play / LEGO Game Console
+### [LEGO Game Console ↗](https://github.com/OrionHachiii/lego-game-console)
+Bricks, buttons, and tiny games. Arduino Uno → ESP32.
 
-A little console made with reusable bricks, an OLED, a joystick, and a buzzer. From Arduino Uno to a rewritten ESP32 version — build, play, rebuild.
-
-**Arduino · ESP32 · C++**
-
-[Open the build →](https://github.com/OrionHachiii/lego-game-console)
+<sub>C++ · OLED · Joystick</sub>
 
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/OrionHachiii/ai-trash-detector"><img src="https://raw.githubusercontent.com/OrionHachiii/ai-trash-detector/main/docs/assets/project-gallery/01-complete-system.jpg" width="100%" height="170" alt="AI trash detector physical prototype" /></a>
 
-### ↳ Sense / AI Trash Detector
+### [AI Trash Detector ↗](https://github.com/OrionHachiii/ai-trash-detector)
+An on-device vision demo with live OLED feedback.
 
-An edge-AI course-project demo connecting a vision sensor to an ESP32 host, with classification results on a tiny OLED.
-
-**ESP32S3 · UART · Edge AI**
-
-[Peek inside →](https://github.com/OrionHachiii/ai-trash-detector)
+<sub>ESP32S3 · UART · Edge AI</sub>
 
 </td>
 </tr>
 <tr>
 <td valign="top">
+<a href="https://github.com/OrionHachiii/wall-climbing-vehicle"><img src="https://raw.githubusercontent.com/OrionHachiii/wall-climbing-vehicle/main/assets/final-vehicle-perspective.png" width="100%" height="170" alt="Fan-adhesion wall-climbing vehicle prototype" /></a>
 
-### ↳ Move / Wall-Climbing Vehicle
+### [Wall-Climbing Vehicle ↗](https://github.com/OrionHachiii/wall-climbing-vehicle)
+A fan-adhesion robot taking the road up a wall.
 
-A fan-adhesion prototype exploring how a vehicle can take the road up a wall. Includes the report, BOM, build photos, and testing notes.
-
-**Robotics · Prototyping · ENGR 7**
-
-[Follow the prototype →](https://github.com/OrionHachiii/wall-climbing-vehicle)
+<sub>Robotics · CAD · Prototyping</sub>
 
 </td>
 <td valign="top">
+<a href="https://github.com/OrionHachiii/ivc-cs-club-hardware-workshop"><img src="https://raw.githubusercontent.com/OrionHachiii/lego-game-console/main/site/assets/uno-console-construction.jpg" width="100%" height="170" alt="Brick-built console: the hardware workshop's companion project" /></a>
 
-### ↳ Share / Hardware Workshop
+### [Hardware Workshop ↗](https://github.com/OrionHachiii/ivc-cs-club-hardware-workshop)
+The ESP32 workshop I led: from first blink to playable console.
 
-Open ESP32 teaching materials from the IVC CS Club workshop I led, with setup guides and a brick-built console reference project.
-
-**Hands-on learning · ESP32 · Documentation**
-
-[Build along →](https://github.com/OrionHachiii/ivc-cs-club-hardware-workshop)
+<sub>Teaching · ESP32 · Open materials</sub>
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>＋ Two more things on the shelf</b></summary>
-
-- [BOM Finder](https://github.com/OrionHachiii/bom-finder) — an AI-assisted hardware BOM generator demo, with a Next.js frontend and FastAPI backend.
-- [IVC Echelon Exchange](https://github.com/OrionHachiii/IVC-Echelon-Exchange) — a LaserHack 2025 project.
-
-</details>
+**Also on the shelf:** [BOM Finder ↗](https://github.com/OrionHachiii/bom-finder) — AI-assisted hardware parts lists · [Echelon Exchange ↗](https://github.com/OrionHachiii/IVC-Echelon-Exchange) — LaserHack 2025
 
 <a id="toolbox"></a>
 
-## 03 / The little toolbox
+## 03 / Tools & signals
 
-| On the desk | In my projects |
-| :--- | :--- |
-| **Boards & firmware** | ESP32 / ESP32S3 · Arduino Uno · C++ |
-| **Signals & interfaces** | UART · I²C · OLEDs · joysticks · buzzers |
-| **Software around the hardware** | TypeScript · Next.js · React · FastAPI |
-| **Things I'm curious about** | Robotics · edge AI · hardware–software co-design |
+<p align="center">
+<a href="https://github.com/OrionHachiii?tab=repositories"><img src="https://skillicons.dev/icons?i=cpp,arduino,ts,react,nextjs,fastapi,git&theme=light" alt="Project tools: C++, Arduino, TypeScript, React, Next.js, FastAPI, Git" /></a>
+</p>
+
+<p align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OrionHachiii&theme=default&title_color=59634f&text_color=344135&bg_color=f6f3e9&icon_color=889768&animation=fade" alt="GitHub public profile statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OrionHachiii&theme=default&title_color=59634f&text_color=344135&bg_color=f6f3e9&animation=draw" alt="Languages across public repositories" />
+</p>
+
+<a href="https://github.com/OrionHachiii?tab=overview"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=OrionHachiii&bg_color=f6f3e9&color=59634f&line=889768&point=c4a44b&area=true&area_color=dce3ca&hide_border=true&height=230&custom_title=Little%20steps%2C%20every%20day" alt="Recent GitHub contribution activity" /></a>
 
 <a id="offscreen"></a>
 
-## 04 / Away from the keyboard
+## 04 / Offscreen
 
-A little shelf for the things that make this space feel like me.
+**Skip and Loafer · SMISKI · simple doodles · instrumental music**
 
-**✿ Skip and Loafer / 跃动青春**  
-美津未、志摩，和那些让平凡日常闪闪发光的小瞬间。
-
-**☘ SMISKI**  
-喜欢躲在角落里的小绿人。这里也给它留了一个位置。
-
-**✎ Simple doodles**  
-两点眼睛，几根线条，一张有点呆萌的脸。我的头像，也是工作台的小主人。
+My avatar comes from a Japanese instrumental artist whose music I love — a soundtrack for working, studying, and long walks.
 
 <a id="say-hello"></a>
 
-## 05 / Say hello
+## 05 / Find me
 
-Curious about a build, a workshop, or hardware that does something fun? Explore a project and open an issue there — I'd love to talk.
+[Portfolio ↗](https://orionhachiii.github.io/zesen-portfolio/) &nbsp; · &nbsp; [All projects ↗](https://github.com/OrionHachiii?tab=repositories) &nbsp; · &nbsp; [My stars ↗](https://github.com/OrionHachiii?tab=stars)
 
-[Portfolio ↗](https://orionhachiii.github.io/zesen-portfolio/) &nbsp; · &nbsp; [Browse my code ↗](https://github.com/OrionHachiii?tab=repositories) &nbsp; · &nbsp; [Things I've starred ↗](https://github.com/OrionHachiii?tab=stars)
-
----
-
-<div align="center">
-<sub>Thanks for stopping by. Leave a little room for curiosity. ✳</sub><br />
-<sub><a href="#about">Back to the top ↑</a></sub>
-</div>
+<div align="center"><sub>Small circuits, big curiosity. ✳ &nbsp; <a href="#about">Back up ↑</a></sub></div>
