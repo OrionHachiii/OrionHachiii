@@ -83,7 +83,7 @@ The ESP32 workshop I led: from first blink to playable console.
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OrionHachiii&theme=default&title_color=59634f&text_color=344135&bg_color=f6f3e9&animation=draw" alt="Languages across public repositories" />
 </p>
 
-<a href="https://github.com/OrionHachiii?tab=overview"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=OrionHachiii&bg_color=f6f3e9&color=59634f&line=889768&point=c4a44b&area=true&area_color=dce3ca&hide_border=true&height=230&custom_title=Little%20steps%2C%20every%20day" alt="Recent GitHub contribution activity" /></a>
+<a href="https://github.com/OrionHachiii?tab=overview"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OrionHachiii&theme=default&title_color=59634f&text_color=344135&bg_color=f6f3e9&chart_color=889768&animation=draw" alt="GitHub contribution history" /></a>
 
 <a id="offscreen"></a>
 
