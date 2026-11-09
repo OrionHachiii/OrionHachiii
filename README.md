@@ -91,7 +91,8 @@ The ESP32 workshop I led: from first blink to playable console.
 
 **Skip and Loafer · SMISKI · simple doodles · instrumental music**
 
-My avatar comes from a Japanese instrumental artist whose music I love — a soundtrack for working, studying, and long walks.
+My avatar comes from **Sharou**, a Japanese instrumental artist I love.  
+On repeat: [**2:23 AM ↗**](https://www.youtube.com/watch?v=slt_Bav8nsQ) — for working, studying, and long walks.
 
 <a id="say-hello"></a>
 
